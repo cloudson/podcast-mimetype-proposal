@@ -10,7 +10,7 @@ Each sentence is followed by 4 parts
 1. An incremental numeric number
 2. The interval when the metadata appears 
 3. The metadata type. Can be a `Link`, a raw `Text` or a `seek` to other point of audio.
-4. The data itself separeted 
+4. The data itself
 
 ```text
 1
